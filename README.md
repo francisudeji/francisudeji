@@ -26,9 +26,7 @@ I. Francis Udeji, I'm a Software Engineer based in Abuja, Nigeria with about 3 y
 
 ## Latest blog posts
 - [Data fetching with Next.js and Strapi CMS](https://blog.logrocket.com/introduction-to-data-fetching-with-next-js-and-strapi-cms/)
-)
 - [Super Simple Introduction to Tailwind CSS](https://francisudeji.com/blog/super-simple-introduction-to-tailwindcss)
-)
 
 ## Contact Me
 Check for my email address and twitter handle on my bio
