@@ -1,7 +1,7 @@
 # Hello there and Welcome!!!
 
 ## Summary
-I'm a software engineer and technical writer based in Abuja, Nigeria with about 3 years of proffessional hands on industry experience building applications accross the web. I'm currently passionate about writing, accessibility, JAMStack, PWAs etc. I want to contribute more to open source :). Besides coding, I like to play games, travel, draw, listen to music, hangout, Netflix etc.
+I'm a software engineer and technical writer based in Abuja, Nigeria with about 3 years of professional hands-on industry experience building applications across the web. I'm currently passionate about writing, accessibility, JAMStack, PWAs, etc. I want to contribute more to open source :). Besides coding, I like to play games, travel, draw, listen to music, hangout, Netflix, etc.
 
 ## Things I use/do often
 - HTML
